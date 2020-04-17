@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587112171 source:e:\datastructure andrie\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
